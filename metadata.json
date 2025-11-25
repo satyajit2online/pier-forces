@@ -1,0 +1,5 @@
+{
+  "name": "PierForce Analytics",
+  "description": "Structural engineering visualization tool for analyzing Pier Forces using heatmaps to identify high-load columns across building stories.",
+  "requestFramePermissions": []
+}
